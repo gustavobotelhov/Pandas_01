@@ -40,3 +40,4 @@ series_idades.index = ['t','o','a','x']
 #%%
 #Navegando nos indices novos
 series_idades['t']
+
